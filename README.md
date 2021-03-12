@@ -1,16 +1,29 @@
-### Hi there 👋
+### ¡Hola a todos! Bienvenido a mi perfil
 
-<!--
-**luispadre/luispadre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-6633cc?style=flat-square&logo=Linkedin&logoColor=white&color=black&link=https://www.linkedin.com/in/lapg/)](https://www.linkedin.com/in/lapg/)
+[![Whatsapp Badge](https://img.shields.io/badge/-WhatsApp-6633cc?style=flat-square&logo=Whatsapp&logoColor=white&color=black&link=http://wa.me/557721235773)](http://wa.me/7721235773)
+[![Email Badge](https://img.shields.io/badge/-Email-3ABFE6?style=flat-square&logo=minutemailer&color=black&&logoColor=white&link=mailto:luispadre@protonmail.com)](mailto:luispadre@protonmail.com)
+<hr/>
 
-Here are some ideas to get you started:
+```javascript
+  async user.index({
+    name: 'Luis Antonio',
+    age: 23,
+    birthday: '25/06',
+    city: 'Ecatepec, MX',
+    stack
+    TechnologiesAndTools: {
+    backend:['Java','JavaScript','Golang','PHP/Laravel',],
+    FrontEnd:['React','Angular','React Native'],
+    dataBase:['(My|Postgre)SQL','(Mongo,Maria)DB']
+    },
+  });
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  return response.status(201).send();
+```
+<!--<a href="LINK_DO_SEU_SITE_AQUI"> -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=luispadre&show_icons=true&theme=radical" alt="Github status" />
+<!--</a>-->
+<!-- <a href="LINK_DO_SEU_SITE_AQUI"> -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luispadre&layout=compact&theme=radical" />
+<!-- </a> -->
