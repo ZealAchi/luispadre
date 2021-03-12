@@ -11,7 +11,6 @@
     age: 23,
     birthday: '25/06',
     city: 'Ecatepec, MX',
-    stack
     TechnologiesAndTools: {
     backend:['Java','JavaScript','Golang','PHP/Laravel',],
     FrontEnd:['React','Angular','React Native'],
