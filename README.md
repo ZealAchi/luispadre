@@ -7,10 +7,7 @@
 
 ```javascript
   async user.index({
-    name: 'Luis Antonio',
-    age: 23,
-    birthday: '25/06',
-    city: 'Ecatepec, MX',
+    name: 'Luis',
     TechnologiesAndTools: {
     backend:['Java','JavaScript','Golang','PHP/Laravel',],
     FrontEnd:['React','Angular','React Native'],
